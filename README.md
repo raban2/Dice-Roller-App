@@ -27,7 +27,7 @@ Demo of App
 ---------------
 
 
-![add](gif/DiceRoller.gif)
+![add](gif/diceRoller.gif)
 
 
 
